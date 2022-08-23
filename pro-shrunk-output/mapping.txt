@@ -1,0 +1,3 @@
+ModWarn -> ModWarn:
+    void <init>() -> <init>
+    void main(java.lang.String[]) -> main

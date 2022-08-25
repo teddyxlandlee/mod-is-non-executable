@@ -1,6 +1,6 @@
 ## Mod is not executable
 
-This project continues [Fabric API 1196](https://github.com/FabricMC/fabric/issues/1196),
+This project continues [Fabric API #1196](https://github.com/FabricMC/fabric/issues/1196),
 which provides a `ModWarn.class` that is shrunk as small as possible (<1KB).
 
 This `ModWarn.class` is highly recommended to be embedded into
